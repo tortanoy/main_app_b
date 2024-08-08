@@ -1,0 +1,6 @@
+[submodule "packages/flutter_package_a"]
+	path = packages/flutter_package_a
+	url = git@github.com:tortanoy/flutter_package_a.git
+[submodule "packages/main_app_c"]
+	path = packages/main_app_c
+	url = git@github.com:tortanoy/main_app_c.git
